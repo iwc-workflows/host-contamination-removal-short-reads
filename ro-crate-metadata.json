@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-20T23:52:49.471661",
+            "datePublished": "2026-10-23T12:25:13.387787",
             "hasPart": [
                 {
                     "@id": "host-or-contamination-removal-on-short-reads.ga"
@@ -84,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/host-contamination-removal-short-reads",
-            "version": "0.6"
+            "version": "0.7"
         },
         {
             "@id": "#galaxy",
